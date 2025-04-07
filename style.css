@@ -1,0 +1,33 @@
+/* Write your code here: */
+
+h1, h2 {
+    color: blue;
+}
+
+div.box > p.done {
+    color: green;
+}
+
+div.box li {
+    color: brown;
+    font-weight: bold;
+}
+
+.box li.done {
+    color: red;
+}
+
+ul > p.done {
+    color: grey;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+body > p {
+    color: orange;
+}
+
+body {
+    background-color: bisque;
+}
+
